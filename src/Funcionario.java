@@ -4,6 +4,12 @@ public class Funcionario {
 	private String cpf;
 	private double salario;
 	
+	
+	//primeiro método
+	public double getBonificacao() {
+		return this.salario * 0.1;
+	}
+	
 	public String getNome() {
 		return nome;
 	}
