@@ -3,7 +3,7 @@ public class TesteFuncionario {
 	public static void main(String[] args) {
 		
 		//criando primeiro objeto
-		Funcionario joao = new Funcionario();
+		Gerente joao = new Gerente();
 		
 		joao.setNome("joao da silva");
 		joao.setSalario(2500.00);
