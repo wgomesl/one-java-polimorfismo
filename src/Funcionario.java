@@ -1,5 +1,6 @@
 // não pode mais instanciar objetos desta classe, porque é abstrata
 public abstract class Funcionario {
+	
 	private String nome;
 	private String cpf;
 	private double salario;
